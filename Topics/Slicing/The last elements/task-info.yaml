@@ -1,0 +1,15 @@
+type: code
+files:
+- name: main.js
+  visible: true
+  text: |-
+    function takeLastN(array, n) {
+        // change it
+    }
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/9251#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: Wed, 03 Nov 2021 15:32:13 UTC
+record: -1

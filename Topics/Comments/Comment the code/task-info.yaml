@@ -1,0 +1,16 @@
+type: code
+files:
+- name: main.js
+  visible: true
+  text: |-
+    console.log("I like");
+    console.log("Oranges");
+    console.log("Apples");
+    console.log("Pears");
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/8176#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: Wed, 03 Nov 2021 11:33:16 UTC
+record: -1
